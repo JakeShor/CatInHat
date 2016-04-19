@@ -24,7 +24,6 @@ public class CatInHat {
         this.grinch = new Grinch();
         this.plate = new GreenEggsAndHam();
         this.horton = new Horton();
-        this.horton2 = new Horton();
     }
 
     public void standTall() {
